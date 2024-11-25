@@ -1,0 +1,46 @@
+html {
+  font-size: 14px;
+ 
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    background-color: whitesmoke;
+}
+
+.text-pink{
+    color:white !important;
+}
+.nav-link {
+    letter-spacing: 2px;
+}
+.carouselExampleSlidesOnly{
+    height:80px !important;
+}
+.carousel-item {
+    height: 550px; /* Ajuste la hauteur ici */
+    object-fit: cover;
+}
+footer{
+    background-color:green;
+    height: 300px;
+}
+header {
+    z-index: 1000;
+}
+.dishCard{
+    height:250px;
+}
+.navbar {
+    background-color: green !important;
+   
+}

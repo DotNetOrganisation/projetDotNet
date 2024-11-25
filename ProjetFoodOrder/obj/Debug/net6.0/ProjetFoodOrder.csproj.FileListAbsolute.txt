@@ -1,0 +1,60 @@
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.staticwebassets.runtime.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.exe
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.deps.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.runtimeconfig.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.dll
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.pdb
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.AssemblyInfo.cs
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.ProjetFoodOrder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetFoodOrder.props
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetFoodOrder.props
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetFoodOrder.props
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\scopedcss\bundle\ProjetFoodOrder.styles.css
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\scopedcss\projectbundle\ProjetFoodOrder.bundle.scp.css
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.dll
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\refint\ProjetFoodOrder.dll
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.pdb
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.genruntimeconfig.cache
+C:\Users\USER\Desktop\COUR3ING\.NetDev\Project\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ref\ProjetFoodOrder.dll
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\appsettings.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.staticwebassets.runtime.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.exe
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.deps.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.runtimeconfig.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.dll
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\bin\Debug\net6.0\ProjetFoodOrder.pdb
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.AssemblyInfoInputs.cache
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.AssemblyInfo.cs
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.csproj.CoreCompileInputs.cache
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.RazorAssemblyInfo.cache
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.RazorAssemblyInfo.cs
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.ProjetFoodOrder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetFoodOrder.props
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetFoodOrder.props
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetFoodOrder.props
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\scopedcss\bundle\ProjetFoodOrder.styles.css
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\scopedcss\projectbundle\ProjetFoodOrder.bundle.scp.css
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.dll
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\refint\ProjetFoodOrder.dll
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.pdb
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ProjetFoodOrder.genruntimeconfig.cache
+C:\Users\Joker\OneDrive - ADDIXO\Bureau\ProjetFoodOrder\ProjetFoodOrder\obj\Debug\net6.0\ref\ProjetFoodOrder.dll
