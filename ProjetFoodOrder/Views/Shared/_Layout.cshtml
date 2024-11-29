@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ProjetFoodOrder.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/css/jquery-ui.min.css"/>
 </head>
 <body>
     <header class="position-sticky top-0 text-white ">
@@ -24,7 +25,7 @@
                             <a class="text-pink nav-link fw-bold" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="text-pink nav-link fw-bold" asp-area="">Recipe</a>
+                            <a class="text-pink nav-link fw-bold" asp-area="" asp-controller="Recipe" asp-action="Index">Recipe</a>
                         </li>
                         <li class="nav-item">
                             <a class="text-pink nav-link fw-bold" asp-area="">Menu</a>
@@ -37,13 +38,13 @@
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top text-white">
+    <footer class="border-top text-white p-3">
         <div class="container mt-2">
             <div class="row">
                <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4">
@@ -51,9 +52,9 @@
                    <p>Healthy , Save and Fastest Food and Delivery</p>
                </div>
                 <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4">
-                   <h4> Contact TUNISIE</h4>
-                   <div class="mt-3">
-                        <span><i class="fa-solid fa-phone fs-4"></i></span>
+                   <h4> Contact Tunisie</h4>
+                   <div class="mt-2">
+                        <span><i class="fa-phone fs-4"></i></span>
                         <span class="fs-5 mx-1">+216 24 471 349</span>
                    </div>
                     <div class="mb-2">
@@ -74,14 +75,13 @@
                     <pre>Street Taher Ben achour Taffela,Sousse</pre>
                 </div>
             </div>
-            <div>
-                <h4 class="text-center">By Chema Bejjar 2024</h>
-            </div>
+           
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="/js/jquery-ui.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
