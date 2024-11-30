@@ -31,8 +31,8 @@ body {
     object-fit: cover;
 }
 footer{
-    background-color:green;
-    height: 300px;
+    background-color:#0d243d;
+   
 }
 header {
     z-index: 1000;
@@ -41,6 +41,53 @@ header {
     height:250px;
 }
 .navbar {
-    background-color: green !important;
+    background-color: #0d243d !important;
    
+}
+
+.fa-instagram {
+    color: #bc2a8d;
+}
+
+.fa-whatsapp {
+    color: #128C7E;
+}
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-phone{
+    color: #EA4335;
+}
+
+#Recipename {
+    color: #EA4335;
+    font-weight: bold;
+    font-style:italic;
+}
+
+#recipe-list {
+    top: 5rem;
+}
+#recipe-list ::-webkit-scrollbar{
+    width:10px;
+}
+#recipe-list ::-webkit-scrollbar-track{
+    background-color: #ffffff;
+}
+
+#recipe-list ::-webkit-scrollbar-thumb {
+        background-color: #ff1448;
+        border-radius:10px;
+
+}
+
+.recipe-item:hover{
+    background-color: #0d243d;
+    border-radius: 10px;
+}
+
+.recipe-item:hover a {
+    color: #ffffff !important ;
+    
 }

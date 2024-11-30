@@ -1,327 +1,335 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjetFoodOrder.bundle.scp.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjetFoodOrder.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProjetFoodOrder.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img-15-soupe-thai.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img-15-soupe-thai.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img-15-soupe-thai.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img-16-431_Soupe-repas-aux-boulettes-italienne_web-1155x825-700x500-c-default.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img-16-431_Soupe-repas-aux-boulettes-italienne_web-1155x825-700x500-c-default.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img-16-431_Soupe-repas-aux-boulettes-italienne_web-1155x825-700x500-c-default.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img-17-17244-caramel-topped-ice-cream-dessert-600x600.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img-17-17244-caramel-topped-ice-cream-dessert-600x600.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img-17-17244-caramel-topped-ice-cream-dessert-600x600.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img10-Recettes-de-riz.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img10-Recettes-de-riz.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img10-Recettes-de-riz.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img11-i136025-pizza-legere.jpeg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img11-i136025-pizza-legere.jpeg",
       "PackagePath": "staticwebassets\\images\\carousel\\img11-i136025-pizza-legere.jpeg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img12-d4b45de8-1878-4deb-ae0e-a69807c42f2b.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img12-d4b45de8-1878-4deb-ae0e-a69807c42f2b.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img12-d4b45de8-1878-4deb-ae0e-a69807c42f2b.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img13-AR-228515-simple-creme-brulee-dessert-dmfs-4x3-821623e7a86548eeb89370ac23d5f251.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img13-AR-228515-simple-creme-brulee-dessert-dmfs-4x3-821623e7a86548eeb89370ac23d5f251.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img13-AR-228515-simple-creme-brulee-dessert-dmfs-4x3-821623e7a86548eeb89370ac23d5f251.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img14-Salades-mozza-mini-bille-et-pommesjpg.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img14-Salades-mozza-mini-bille-et-pommesjpg.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img14-Salades-mozza-mini-bille-et-pommesjpg.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img18-107406_w1024h1024c1cx1060cy707cxt0cyt0cxb2121cyb1414.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img18-107406_w1024h1024c1cx1060cy707cxt0cyt0cxb2121cyb1414.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img18-107406_w1024h1024c1cx1060cy707cxt0cyt0cxb2121cyb1414.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img1pizza2.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img1pizza2.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img1pizza2.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img2-i143618-tajine-de-saumon-aux-legumes.jpeg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img2-i143618-tajine-de-saumon-aux-legumes.jpeg",
       "PackagePath": "staticwebassets\\images\\carousel\\img2-i143618-tajine-de-saumon-aux-legumes.jpeg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img20-Fotolia_65575621_M.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img20-Fotolia_65575621_M.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img20-Fotolia_65575621_M.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img3-1703291674_sans-gluten-et-delicieux-idees-de-plats-en-cocotte-pour-tous-1024x701.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img3-1703291674_sans-gluten-et-delicieux-idees-de-plats-en-cocotte-pour-tous-1024x701.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img3-1703291674_sans-gluten-et-delicieux-idees-de-plats-en-cocotte-pour-tous-1024x701.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img4-1726357061_recette-de-lotte-braisee-savourez-un-plat-delicieux-et-raffine-1024x701.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img4-1726357061_recette-de-lotte-braisee-savourez-un-plat-delicieux-et-raffine-1024x701.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img4-1726357061_recette-de-lotte-braisee-savourez-un-plat-delicieux-et-raffine-1024x701.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img5-recettes-plats-italiens-rapides-moins-de-30-minutes.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img5-recettes-plats-italiens-rapides-moins-de-30-minutes.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img5-recettes-plats-italiens-rapides-moins-de-30-minutes.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img6-buddha-bowl.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img6-buddha-bowl.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img6-buddha-bowl.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img7-20-plats-familiaux-au-poisson-faciles-et-pas-chers.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img7-20-plats-familiaux-au-poisson-faciles-et-pas-chers.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img7-20-plats-familiaux-au-poisson-faciles-et-pas-chers.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img8-Veloute-de-potiron-et-croutons.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img8-Veloute-de-potiron-et-croutons.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img8-Veloute-de-potiron-et-croutons.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img9-soupe.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\img9-soupe.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\img9-soupe.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\images\\carousel\\imh19-Jus-orange-frais-main-13622325.jpg",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\images\\carousel\\imh19-Jus-orange-frais-main-13622325.jpg",
       "PackagePath": "staticwebassets\\images\\carousel\\imh19-Jus-orange-frais-main-13622325.jpg"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

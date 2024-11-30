@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\ProjetFoodOrder.csproj": {}
+    "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\ProjetFoodOrder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\ProjetFoodOrder.csproj": {
+    "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\ProjetFoodOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\ProjetFoodOrder.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\ProjetFoodOrder.csproj",
         "projectName": "ProjetFoodOrder",
-        "projectPath": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\ProjetFoodOrder.csproj",
-        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\ProjetFoodOrder.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,24 +62,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -86,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
