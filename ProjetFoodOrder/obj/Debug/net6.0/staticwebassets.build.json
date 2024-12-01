@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iQbDEcIh7wgg7PYLBSVZpVwBFKnwbhjUrxlQreEcV50=",
+  "Hash": "6utGa5dcAV7mVdaNtTbZULeeTCIdlqA6B6rQa9Oll1U=",
   "Source": "ProjetFoodOrder",
   "BasePath": "_content/ProjetFoodOrder",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "izc167vwgr",
-      "Integrity": "AtZD+mG8iYyvE21acfKpBAXJ+NBwzca9IHP6lOtHueA=",
+      "Fingerprint": "kosno4zium",
+      "Integrity": "9EjIH+hN67tfWcz8Iu7233yS6aDks6cjjLvSc6/79fU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -577,8 +577,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e87fd77xpq",
-      "Integrity": "XivTb595VZUorZQuF9O8uHyB94gI8EjeCOI4ftMp9rs=",
+      "Fingerprint": "yjbf4v4fue",
+      "Integrity": "PkhDJxHKx4UUat5zZ8IXnSS05Rjpin3P3F5ux7cU5lI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1875,7 +1875,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1318"
+          "Value": "1355"
         },
         {
           "Name": "Content-Type",
@@ -1883,11 +1883,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AtZD+mG8iYyvE21acfKpBAXJ+NBwzca9IHP6lOtHueA=\""
+          "Value": "\"9EjIH+hN67tfWcz8Iu7233yS6aDks6cjjLvSc6/79fU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 17:23:02 GMT"
+          "Value": "Sun, 01 Dec 2024 22:02:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1897,12 +1897,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AtZD+mG8iYyvE21acfKpBAXJ+NBwzca9IHP6lOtHueA="
+          "Value": "sha256-9EjIH+hN67tfWcz8Iu7233yS6aDks6cjjLvSc6/79fU="
         }
       ]
     },
     {
-      "Route": "css/site.izc167vwgr.css",
+      "Route": "css/site.kosno4zium.css",
       "AssetFile": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1912,7 +1912,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1318"
+          "Value": "1355"
         },
         {
           "Name": "Content-Type",
@@ -1920,11 +1920,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AtZD+mG8iYyvE21acfKpBAXJ+NBwzca9IHP6lOtHueA=\""
+          "Value": "\"9EjIH+hN67tfWcz8Iu7233yS6aDks6cjjLvSc6/79fU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 17:23:02 GMT"
+          "Value": "Sun, 01 Dec 2024 22:02:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1934,7 +1934,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "izc167vwgr"
+          "Value": "kosno4zium"
         },
         {
           "Name": "label",
@@ -1942,7 +1942,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AtZD+mG8iYyvE21acfKpBAXJ+NBwzca9IHP6lOtHueA="
+          "Value": "sha256-9EjIH+hN67tfWcz8Iu7233yS6aDks6cjjLvSc6/79fU="
         }
       ]
     },
@@ -3751,51 +3751,6 @@
       ]
     },
     {
-      "Route": "js/site.e87fd77xpq.js",
-      "AssetFile": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XivTb595VZUorZQuF9O8uHyB94gI8EjeCOI4ftMp9rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 12:12:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e87fd77xpq"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XivTb595VZUorZQuF9O8uHyB94gI8EjeCOI4ftMp9rs="
-        }
-      ]
-    },
-    {
       "Route": "js/site.js",
       "AssetFile": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -3806,7 +3761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1007"
+          "Value": "1595"
         },
         {
           "Name": "Content-Type",
@@ -3814,11 +3769,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XivTb595VZUorZQuF9O8uHyB94gI8EjeCOI4ftMp9rs=\""
+          "Value": "\"PkhDJxHKx4UUat5zZ8IXnSS05Rjpin3P3F5ux7cU5lI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 12:12:13 GMT"
+          "Value": "Sun, 01 Dec 2024 20:52:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3828,7 +3783,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XivTb595VZUorZQuF9O8uHyB94gI8EjeCOI4ftMp9rs="
+          "Value": "sha256-PkhDJxHKx4UUat5zZ8IXnSS05Rjpin3P3F5ux7cU5lI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.yjbf4v4fue.js",
+      "AssetFile": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PkhDJxHKx4UUat5zZ8IXnSS05Rjpin3P3F5ux7cU5lI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjbf4v4fue"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PkhDJxHKx4UUat5zZ8IXnSS05Rjpin3P3F5ux7cU5lI="
         }
       ]
     },

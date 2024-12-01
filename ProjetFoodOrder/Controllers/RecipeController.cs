@@ -27,6 +27,12 @@ namespace ProjetFoodOrder.Controllers
 
         }
 
+        [HttpPost]
+        public IActionResult ShowOrder( OrderRecipeDetails orderRecipeDetails)
+        {
+            return PartialView("_ShowOrder", orderRecipeDetails);
+        }
+
 
 
 
