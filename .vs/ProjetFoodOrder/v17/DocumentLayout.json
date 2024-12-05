@@ -1,54 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\",
+  "WorkspaceRootPath": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\_showorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_showorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\views\\recipe\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\wwwroot\\js\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\wwwroot\\js\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\user\\desktop\\cour3ing\\project.net\\projetdotnet\\projetfoodorder\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\models\\orderrecipedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\models\\orderrecipedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\wwwroot\\js\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\wwwroot\\js\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\bakabakouka\\desktop\\projetdotnet\\projetdotnet\\projetfoodorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,51 +74,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_RecipeCard.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
-              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA4AAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T22:35:33.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_SearchBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
-              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T22:02:13.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
-              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T18:35:50.499Z"
+              "WhenOpened": "2024-11-27T21:46:58.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T18:41:11.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_RecipeCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_RecipeCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:35:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRecipeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Models\\OrderRecipeDetails.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Models\\OrderRecipeDetails.cs",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Models\\OrderRecipeDetails.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\Models\\OrderRecipeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:48:28.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ShowOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_ShowOrder.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_ShowOrder.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_ShowOrder.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_ShowOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:06:46.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Order.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\Order.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Order.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\Order.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T17:36:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjetFoodOrder\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T20:49:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Models\\Recipe.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:17:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:10:05.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ProjetFoodOrder\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T20:07:40.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjetFoodOrder\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjetFoodOrder\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,60 +220,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecipeController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Controllers\\RecipeController.cs",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Controllers\\RecipeController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Controllers\\RecipeController.cs",
-              "RelativeToolTip": "ProjetFoodOrder\\Controllers\\RecipeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:10:05.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Models\\Recipe.cs",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Models\\Recipe.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Models\\Recipe.cs",
-              "RelativeToolTip": "ProjetFoodOrder\\Models\\Recipe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:17:27.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
-              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAMAAAA",
+              "DocumentIndex": 11,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Search.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\Search.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\Search.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:46:58.842Z"
+              "WhenOpened": "2024-12-01T15:16:14.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ProjetFoodOrder\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-28T20:07:40.481Z"
+              "DocumentIndex": 12,
+              "Title": "_SearchBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_SearchBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T22:02:13.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAFMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -171,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "jquery-ui.min.js",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
               "RelativeDocumentMoniker": "ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
               "RelativeToolTip": "ProjetFoodOrder\\wwwroot\\js\\jquery-ui.min.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -184,26 +269,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjetFoodOrder\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAANoAAAAAAAAAAAAAACIAAABRAAAA",
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\bakabakouka\\Desktop\\ProjetDotNet\\projetDotNet\\ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Recipe\\_SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T18:41:11.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\COUR3ING\\project.net\\projetDotNet\\ProjetFoodOrder\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ProjetFoodOrder\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-27T20:49:31.684Z"
+              "WhenOpened": "2024-11-28T18:35:50.499Z"
             }
           ]
         }

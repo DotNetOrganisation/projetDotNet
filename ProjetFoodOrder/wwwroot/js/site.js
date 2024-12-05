@@ -24,5 +24,27 @@ function showRecipes(recipes, id) {
         success: function (htmlResult) {
             $('#' + id).html(htmlResult);
         }
-    })
+    });
+}
+async function getOrderRecipe(id, showId) {
+   
+    let resp = await fetch(`${apiUrl}/${id}?key=${apiKey}`);
+    let result = await resp.json();
+    console.log(result);
+    let recipe = result.data.recipe;
+    showOrderRecipeDetails(recipe, showId);
+
+}
+function showOrderRecipeDetails(orderRecipeDetails, showId) {
+    
+    $.ajax({
+      
+        dataType: 'html',
+        type: 'POST',
+        url: '/Recipe/ShowOrder',
+        data: orderRecipeDetails ,
+        success: function (htmlResult) {
+            $('#' + showId).html(htmlResult);
+        }
+    });
 }
