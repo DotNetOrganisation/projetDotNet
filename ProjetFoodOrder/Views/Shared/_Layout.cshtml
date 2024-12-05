@@ -33,6 +33,25 @@
                             <a class="text-pink nav-link fw-bold" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
+                    
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                     
+                        <div>
+                            <a class="nav-link fw-bold text-pink" asp-controller="Account" asp-action="Login">LogIn</a>
+                        </div>
+
+
+                    }
+                    else
+                    {
+                        <div>
+                            <a class="nav-link fw-bold text-pink" asp-controller="Account" asp-action="LogOut">LogOut</a>
+                        </div>
+                     
+                    }
+
+
                 </div>
             </div>
         </nav>
@@ -75,7 +94,7 @@
                 </div>
             </div>
             <div>
-                <h4 class="text-center">By Chema Bejjar 2024</h>
+                <h4 class="text-center">By Chema Bejjar 2024</h4>
             </div>
         </div>
     </footer>

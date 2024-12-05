@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\contextdbconfig\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\contextdbconfig\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|c:\\users\\joker\\onedrive - addixo\\bureau\\projetfoodorder\\projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F23E24-EAA6-4096-AFCE-13ECB9F46928}|ProjetFoodOrder\\ProjetFoodOrder.csproj|solutionrelative:projetfoodorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,29 +50,113 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ProjetFoodOrder\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ProjetFoodOrder\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FoodDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\ContextDBConfig\\FoodDBContext.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\ContextDBConfig\\FoodDBContext.cs",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\ContextDBConfig\\FoodDBContext.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\ContextDBConfig\\FoodDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:18:29.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T12:31:05.579Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:53:22.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:00:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:01:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjetFoodOrder\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:01:41.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Program.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:30:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ProjetFoodOrder\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:30:42.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjetFoodOrder\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjetFoodOrder\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:18:10.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:00:57.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetFoodOrder\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joker\\OneDrive - ADDIXO\\Bureau\\ProjetFoodOrder\\ProjetFoodOrder\\appsettings.json",
+              "RelativeToolTip": "ProjetFoodOrder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T12:30:34.707Z"
             }
           ]
         }

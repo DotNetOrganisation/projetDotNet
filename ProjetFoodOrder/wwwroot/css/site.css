@@ -44,3 +44,7 @@ header {
     background-color: green !important;
    
 }
+.validation-summary-errors li{
+    color: #dc3545;
+
+}
